@@ -1,0 +1,14 @@
+*{
+    margin: 0px 0px 0px 0px;
+}
+.all{
+    border: solid 2px ;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(129, 101, 101);
+    padding: 10%;
+}
+.upperbody{
+    margin-bottom: 50%;
+    background-color: rgb(222, 0, 0);
+}

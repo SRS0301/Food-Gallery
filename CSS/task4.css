@@ -1,0 +1,61 @@
+.child{
+    width: 300px;
+    height: 250px;
+    padding: 250px;
+    position: absolute;
+   
+  
+}
+.img1{
+    width: 250px;
+    height: auto;
+    border: solid 2px;
+    border-radius: 15px;
+   
+}
+
+.parent{
+    position: relative;
+}
+
+#ind2{
+
+    margin-left: 300px;
+    margin-top: 80px;
+}  
+#ind3{
+    margin-left: 600px;
+   
+}
+#ind1{
+    margin-left: 100px;
+}
+
+#text{
+    margin: 0%;
+    font-style: italic;
+    color: #ffffff;
+   
+}
+#alighn{
+    margin: 0px;
+    max-width: 250px;
+    color: #ffffff;
+
+}
+.km{
+   
+    position: absolute;
+    top: 10px; 
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 90px;
+    font-weight: bold;
+    color: rgb(255, 255, 255); 
+    z-index: 10; 
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+    
+}

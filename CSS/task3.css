@@ -1,0 +1,22 @@
+.d1{
+    height: 450px;
+    width: 290px;
+    border: 4px solid rgb(240, 240, 240) ;
+    border-radius: 20px;
+    margin: 10px 23px;
+
+    background-color: rgb(134, 128, 93);
+    padding: 10px;
+    float: left;
+
+}
+
+
+.btn{
+    text-align: center;
+    color: yellow;
+}
+#img{
+    margin-left: 27px;
+    
+}

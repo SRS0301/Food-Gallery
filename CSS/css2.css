@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+    color: aquamarine;
+}
+#S1{
+    color: rgb(99, 98, 91);
+}
+.grp1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3,h4{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+div h2{
+    color: black;
+    background-color: aquamarine;
+}
+div>p{
+    color: blueviolet;
+}
+h2~h4{
+    background-color: antiquewhite;
+}
